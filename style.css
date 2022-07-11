@@ -1,0 +1,192 @@
+.donation {
+    background-image: url(images/donation4.jpg);
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+
+
+}
+
+.center {
+    text-align: center;
+    color: white;
+}
+
+.link-button {
+    background-color: coral;
+    padding: 10px 10px 10px;
+
+}
+
+
+
+.donate-area {
+    text-align: center;
+    font-size: 30px;
+}
+
+.p {
+    font-size: 20px;
+    color: rgb(106, 74, 74);
+}
+
+.flex {
+
+
+
+    text-align: center;
+    display: flex;
+    font-size: 40px;
+
+
+
+}
+
+
+.top {
+    margin: 150px;
+
+    padding: 5px;
+}
+
+#tk {
+    color: orange;
+    background-color: aqua;
+    padding: 5px 50px;
+
+    border: 7px solid orange;
+
+}
+
+.om {
+    text-align: center;
+    font-size: 25px;
+
+
+}
+
+.button {
+    text-align: center;
+
+
+}
+
+.now {
+    background-color: orange;
+    padding: 10px 10px 10px;
+    border-radius: 5px;
+}
+
+.plan {
+    text-align: center;
+    font-size: 30px;
+}
+
+.flex-2 {
+
+
+    display: flex;
+
+
+
+
+}
+
+.color-1 {
+    background-color: blueviolet;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+
+
+}
+
+.color-2 {
+    background-color: darkgoldenrod;
+    width: 50%;
+    margin-left: 5%;
+    margin right: 5%;
+
+
+
+}
+
+.color-3 {
+    background-color: antiquewhite;
+    wwidth: 50%;
+    margin-left: 5%;
+    margin right: 5%;
+
+
+
+
+}
+
+.ext-1 {
+    box-shadow: 30px 30px 30px gray;
+
+
+
+    padding: 30px;
+    margin left: 10%;
+    margin right: 10%
+}
+
+.half-width {
+    width: 50%;
+
+
+
+}
+
+.flex-3 {
+    display: flex;
+    margin left: 5%;
+    margin right: 5%;
+    padding: 150px 30px 20px;
+
+}
+
+.link-1 {
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.flex-4 {
+    display: flex;
+    padding: 20px 30px 20px;
+    margin-left: 20%;
+    margin-right: 5%;
+
+
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.update {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    padding: 50px;
+    background-color: black;
+    color: coral;
+    font-size: 20px;
+    font-style: italic;
+
+}
